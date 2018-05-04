@@ -31,8 +31,6 @@ Version du 3 mai 2018
 * [Aspirer votre page actuelle dans optimisation](#aspirer-votre-page-actuelle-dans-optimisation)
 * [Ajouter des urls a posteriori](#ajouter-des-urls-a-posteriori)
 
-* [Test d'apostrophe](#test-dapostrophe)
-
 ## Les metamots, préalables
 
 1) Cette documentation a pour objectif d’expliquer le fonctionnement du service « metamots en SaaS » sur cocon.se.
@@ -545,8 +543,4 @@ Pour renseigner en une seule fois toutes les urls de tous les metamots d'un mêm
 * couple = metamot + TABULATION + url
 
 [Les metamots en SaaS c’est ici !](https://self.cocon.se/)
-
-## Test d'apostrophe
-
-Je ne fais que passer.
 
