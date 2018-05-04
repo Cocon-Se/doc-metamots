@@ -281,7 +281,7 @@ Toutefois, vous devez placer les 12 premières lexies du metamot sans en omettre
 
 Vous pouvez télécharger les données grâce à l’icône avec le nuage.
 
-###M aillage sémantique
+### Maillage sémantique
 
 
 ![](images/cocon-sem-17.png)
