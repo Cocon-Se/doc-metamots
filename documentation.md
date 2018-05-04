@@ -62,7 +62,7 @@ Les packs ont disparu. Aujourd'hui vous achetez des crédits, crédits que vous 
 1 metamot = 1 crédit.
 Ces crédits sont également utilisables pour faire des recherches de sujets avec Eureka.
 
-##Lancer un calcul de metamots
+## Lancer un calcul de metamots
 
 La page dont nous allons parler maintenant se trouve [ici](https://self.cocon.se/index.php?action=mm_new).
 
