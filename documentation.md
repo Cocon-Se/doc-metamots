@@ -16,7 +16,7 @@ Version du 3 mai 2018
 * [Détails des metamots](#détails-des-metamots)
 * [Maillage sémantique](#maillage-sémantique)
 * [Calculer un maillage](#calculer-un-maillage)
-* [All In](#all-In)
+* [All In](#all-in)
 * [Liens forts](#liens-forts)
 * [Liens moyens](#liens-moyens)
 * [Maillage manuel](#maillage-manuel)
