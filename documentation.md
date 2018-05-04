@@ -27,7 +27,7 @@ Version du 3 mai 2018
 * [Visualisation](#visualisation)
 * [Ajouter des metamots à un lot déjà calculé](#ajouter-des-metamots-à-un-lot-déjà-calculé)
 * [Donner un accès restreint à l'espace optimisations à vos rédacteurs](#donner-un-accès-restreint-à-l'espace-optimisations-à-vos-rédacteurs)
-* [Calculer des idées d'intertitres ou de paragraphes](#calculer-des-idées-d-intertitres-ou-de-paragraphes)
+* [Idées de paragraphes](#idées-de-paragraphes)
 * [Aspirer votre page actuelle dans optimisation](#aspirer-votre-page-actuelle-dans-optimisation)
 * [Ajouter des urls a posteriori](#ajouter-des-urls-a-posteriori)
 
@@ -522,7 +522,7 @@ Dans le menu vertical à gauche, cliquer sur le bouton colorié en orange "Accè
 
 Votre rédacteur aura alors accès à la partie "optimisation" de ce lot et de ce lot uniquement.
 
-## Calculer des idées d'intertitres ou de paragraphes
+## Idées de paragraphes
 
 Vous pouvez obtenir des idées de paragraphes pour chacun de vos metamots.
 
