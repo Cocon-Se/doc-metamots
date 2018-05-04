@@ -15,7 +15,7 @@ Version du 3 mai 2018
 * [Vue générale](#vue-générale)
 * [Détails des metamots](#détails-des-metamots)
 * [Maillage sémantique](#Maillage-sémantique)
-* [Calculer un maillage interne](#calculer-un maillage-interne)
+* [Calculer un maillage](#calculer-un maillage)
 * [All In](#All-In)
 * [Liens forts](#Liens-forts)
 * [Liens moyens](#Liens-moyens)
@@ -325,7 +325,7 @@ Nous allons dérouler chacune des 3 procédures suivantes :
 
 **Les metamots non utilisables pour du maillage ou cocons ne sont pas listés.**
 
-#### Calculer un maillage interne
+#### Calculer un maillage
 
 Il y a trois façons de faire : soit tout faire manuellement (!), soit utiliser les outils automatiques.
 
