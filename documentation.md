@@ -117,7 +117,7 @@ Note : L’action de suppression d’un calcul est définitive, réfléchissez 
 
 Pour consulter un calcul, cliquez sur son titre. Vous arriverez alors sur un résumé vous donnant accès aux diverses informations disponibles.
 
-###Résumé du calcul
+### Résumé du calcul
 
 Cliquez dans le lot que vous voulez analyser dans la liste.
 
