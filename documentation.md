@@ -65,7 +65,7 @@ Ces crédits sont également utilisables pour faire des recherches de sujets ave
 
 La page dont nous allons parler maintenant se trouve [ici](https://self.cocon.se/index.php?action=mm_new).
 
-### Ciblage Langue-Pays
+### Ciblage Langue Pays
 
 Les metamots sont disponibles en de nombreuses langues, y compris le Russe.
 
