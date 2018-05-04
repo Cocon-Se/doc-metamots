@@ -41,13 +41,13 @@ Cette interface pourrait avoir évolué au moment de la consultation de la docum
 
 2) Rappels :
 
-**Expression :**
+** Expression :**
 Expression-clé définissant le mieux votre page. Pensez avant tout à l'internaute qui ne vous connait pas.
 
-**Metamot :**
+** Metamot :**
 Ensemble de lexies composant l’empreinte la plus adaptée à la requête précédente. Une expression « engendre » son metamot. Par conséquent, 1 expression = 1 metamot.
 
-**Lexie :**
+** Lexie :**
 Unité sémantique faisant partie d’un metamot. Un metamot est composé d’une ou plusieurs lexies, le plus souvent une quinzaine. Chaque lexie a un rôle précis dans le metamot et ne doit pas être vue comme possiblement séparée des autres.
 
 3) La page « [Présentation](https://self.cocon.se/index.php?action=mm_about) » vous donne un peu de lecture sur le sujet des metamots ainsi que quelques liens.
@@ -56,7 +56,7 @@ Unité sémantique faisant partie d’un metamot. Un metamot est composé d’un
 
 La page tarif se trouve [ici](https://self.cocon.se/index.php?action=mm_tarifs).
 
-###Les packs, c'est fini !
+### Les packs, c'est fini !
 
 Les packs ont disparu. Aujourd'hui vous achetez des crédits, crédits que vous pouvez utiliser librement pendant 1 an.
 1 metamot = 1 crédit.
