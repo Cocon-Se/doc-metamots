@@ -5,7 +5,6 @@ Version du 3 mai 2018
 * [Plus de packs](#plus-de-packs)
 * [Lancer un calcul de metamots](#lancer-un-calcul-de-metamots)
 * [Ciblage Langue-Pays](#ciblage-langue-pays)
-* [Vue d'ensemble](#vue-d-ensemble)
 * [Calculer des metamots](#calculer-des-metamots)
 * [Mes metamots et metamots de démo](#mes-metamots-et-metamots-de-démo)
 * [Résumé du calcul](#Résumé du calcul)
