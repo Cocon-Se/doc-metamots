@@ -22,13 +22,13 @@ Version du 3 mai 2018
 * [Maillage manuel](#Maillage-manuel)
 * [Options de maillage](#Options-de-maillage)
 * [Export des données de maillage](#Export-des-données-de-maillage)
-* [Calculer un cocon sémantique](#Calculer-un-ocon-sémantique)
-* [Calculer plusieurs cocons en une seule fois](#Calculer-plusieurs-cocons-en-une-seule-fois)
-* [Visualisation](#Visualisation)
-* [Ajouter des metamots à un lot déjà calculé](#Ajouter-des-metamots-à-un-lot-déjà-calculé)
-* [Donner un accès restreint à l'espace "optimisations" à vos rédacteurs](#Donner-un-accès-restreint-à-l-espace-"optimisations"-à-vos-rédacteurs)
-* [Calculer des idées d'intertitres ou de paragraphes](#Calculer-des-idées-d-intertitres-ou-de-paragraphes)
-* [Aspirer votre page actuelle dans optimisation](#Aspirer-votre-page-actuelle-dans-optimisation)
+* [Calculer un cocon sémantique](#Calculer-un-cocon-sémantique)
+* [Calculer plusieurs cocons en une seule fois](#calculer-plusieurs-cocons-en-une-seule-fois)
+* [Visualisation](#visualisation)
+* [Ajouter des metamots à un lot déjà calculé](#ajouter-des-metamots-à-un-lot-déjà-calculé)
+* [Donner un accès restreint à l'espace "optimisations" à vos rédacteurs](#donner-un-accès-restreint-à-l-espace-"optimisations"-à-vos-rédacteurs)
+* [Calculer des idées d'intertitres ou de paragraphes](#calculer-des-idées-d-intertitres-ou-de-paragraphes)
+* [Aspirer votre page actuelle dans optimisation](#aspirer-votre-page-actuelle-dans-optimisation)
 
 
 ## Les metamots, préalables
