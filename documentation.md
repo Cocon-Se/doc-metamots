@@ -32,7 +32,7 @@ Version du 3 mai 2018
 * [Aspirer votre page actuelle dans optimisation](#Aspirer votre page actuelle dans optimisation)
 
 
-##Les metamots, préalables
+## Les metamots, préalables
 
 1) Cette documentation a pour objectif d’expliquer le fonctionnement du service « metamots en SaaS » sur cocon.se.
 
@@ -52,7 +52,7 @@ Unité sémantique faisant partie d’un metamot. Un metamot est composé d’un
 
 3) La page « [Présentation](https://self.cocon.se/index.php?action=mm_about) » vous donne un peu de lecture sur le sujet des metamots ainsi que quelques liens.
 
-##Tarifs
+## Tarifs
 
 La page tarif se trouve [ici](https://self.cocon.se/index.php?action=mm_tarifs).
 
