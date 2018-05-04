@@ -3,8 +3,8 @@ Version du 3 mai 2018
 * [Les metamots, préalables](#les-metamots-préalables)
 * [Tarifs](#tarifs)
 * [Plus de packs](#plus-de-packs)
-* [Lancer un calcul de metamots](#mancer-un-calcul-de-metamots)
-* [Ciblage Langue-Pays](#Ciblage Langue-Pays)
+* [Lancer un calcul de metamots](#lancer-un-calcul-de-metamots)
+* [Ciblage Langue-Pays](#ciblage-langue-pays)
 * [Vue d'ensemble](#Vue d'ensemble)
 * [Calculer des metamots](#Calculer des metamots)
 * [Mes metamots et metamots de démo](#Mes metamots et metamots de démo)
@@ -66,7 +66,7 @@ Ces crédits sont également utilisables pour faire des recherches de sujets ave
 
 La page dont nous allons parler maintenant se trouve [ici](https://self.cocon.se/index.php?action=mm_new).
 
-###Ciblage Langue-Pays
+### Ciblage Langue-Pays
 
 Les metamots sont disponibles en de nombreuses langues, y compris le Russe.
 
