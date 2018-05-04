@@ -2,7 +2,7 @@ Version du 3 mai 2018
 
 * [Les metamots, préalables](#les-metamots-préalables)
 * [Tarifs](#tarifs)
-* [Les packs, c'est fini !](#Les packs, c'est fini !)
+* [Les packs, c'est fini !](#les-packs-c'est fini-!)
 * [Lancer un calcul de metamots](#Lancer un calcul de metamots)
 * [Ciblage Langue-Pays](#Ciblage Langue-Pays)
 * [Vue d'ensemble](#Vue d'ensemble)
