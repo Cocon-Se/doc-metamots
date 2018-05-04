@@ -2,7 +2,7 @@ Version du 3 mai 2018
 
 * [Les metamots, préalables](#les-metamots-préalables)
 * [Tarifs](#tarifs)
-* [Les packs, c'est fini !](#les-packs-c-est-fini)
+* [Plus de packs](#plus-de-packs)
 * [Lancer un calcul de metamots](#Lancer un calcul de metamots)
 * [Ciblage Langue-Pays](#Ciblage Langue-Pays)
 * [Vue d'ensemble](#Vue d'ensemble)
@@ -56,7 +56,7 @@ Unité sémantique faisant partie d’un metamot. Un metamot est composé d’un
 
 La page tarif se trouve [ici](https://self.cocon.se/index.php?action=mm_tarifs).
 
-### Les packs, c'est fini
+### Plus de packs
 
 Les packs ont disparu. Aujourd'hui vous achetez des crédits, crédits que vous pouvez utiliser librement pendant 1 an.
 1 metamot = 1 crédit.
