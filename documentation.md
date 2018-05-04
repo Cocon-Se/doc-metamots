@@ -4,7 +4,7 @@ Version du 3 mai 2018
 * [Tarifs](#tarifs)
 * [Plus de packs](#plus-de-packs)
 * [Lancer un calcul de metamots](#lancer-un-calcul-de-metamots)
-* [Ciblage Langue-Pays](#ciblage-langue-pays)
+* [Ciblage Langue Pays](#ciblage-langue-pays)
 * [Calculer des metamots](#calculer-des-metamots)
 * [Mes metamots et metamots de démo](#mes-metamots-et-metamots-de-démo)
 * [Résumé du calcul](#résumé-du-calcul)
