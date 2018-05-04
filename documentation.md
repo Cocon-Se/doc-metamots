@@ -5,9 +5,9 @@ Version du 3 mai 2018
 * [Plus de packs](#plus-de-packs)
 * [Lancer un calcul de metamots](#lancer-un-calcul-de-metamots)
 * [Ciblage Langue-Pays](#ciblage-langue-pays)
-* [Vue d'ensemble](#Vue d'ensemble)
-* [Calculer des metamots](#Calculer des metamots)
-* [Mes metamots et metamots de démo](#Mes metamots et metamots de démo)
+* [Vue d'ensemble](#vue-d-ensemble)
+* [Calculer des metamots](#calculer-des-metamots)
+* [Mes metamots et metamots de démo](#mes-metamots-et-metamots-de-démo)
 * [Résumé du calcul](#Résumé du calcul)
 * [Parfum](#Parfum)
 * [Potentiel](#Potentiel)
@@ -76,7 +76,7 @@ Lorsque vous commandez un calcul, les metamots seront donc spécifiques au coupl
 
 Il peut être intéressant d’ailleurs de comparer le même groupe d’expressions entre plusieurs pays partageant la même langue. Vous pouvez, par exemple, voir comment vos produits et marques rayonnent hors de vos frontières.
 
-###Calculer des metamots
+### Calculer des metamots
 
 Donnez un nom à votre lot de calcul, nom « parlant » de préférence.
 
@@ -98,7 +98,7 @@ Les étapes suivantes sont si évidentes que l’on ne vous fera pas l’injure 
 
 Note : une fois votre demande validée, les calculs se font en tâche de fond. Vous pouvez donc quitter votre navigateur et revenir plus tard.
 
-##Mes metamots et metamots de démo
+## Mes metamots et metamots de démo
 
 rendez-vous [ici](https://self.cocon.se/index.php?action=mm_list).
 
@@ -126,7 +126,7 @@ La page d’entrée vous donne déjà quelques informations sur le résultat :
 
 ![](images/cocon-sem-06.png)
 
-###Parfum
+### Parfum
 
 Chaque expression a son environnement dans les résultats de recherche.
 
@@ -146,7 +146,7 @@ Le parfum doit donc vous inspirer pour être à armes au minimum égales avec vo
 
 Si vous avez des images dans les résultats de recherche, pourquoi ne pas tenter d’y mettre une des vôtres ?
 
-###Potentiel
+### Potentiel
 
 ![](images/cocon-sem-09.png)
 
@@ -168,7 +168,7 @@ Puis vous avez tous les metamots sous forme de liste avec deux indications :
 * le potentiel proprement dit,
 * le nombre (constaté) de mots de votre environnement concurrentiel éligible par son contenu.
 
-###Simulations
+### Simulations
 
 ![](images/cocon-sem-11.png)
 
@@ -184,7 +184,7 @@ Dans la colonne de gauche, sélectionnez simplement un des metamots, choisissez 
 
 Vous pouvez aussi exporter tous les metamots en PDF en une seule opération : cliquez pour cela sur le bouton en haut à droite « PDF 1000 » (1000 étant la quantité choisie dans cet exemple).
 
-###Optimisations
+### Optimisations
 
 Cette page de résultats de calculs vous donne différentes informations sur l'état de l'optimisation des pages qui vous sont concurrentes et, si vous avez renseigné vos urls, votre niveau actuel d'optimisation.
 
@@ -262,7 +262,7 @@ Vous avez aussi accès à la liste de toutes les lexies qui se trouvent dans l�
 ![](images/cocon-sem-52.png)
 
 
-###Détails des metamots
+### Détails des metamots
 
 ![](images/cocon-sem-15.png)
 
@@ -282,7 +282,7 @@ Toutefois, vous devez placer les 12 premières lexies du metamot sans en omettre
 
 Vous pouvez télécharger les données grâce à l’icône avec le nuage.
 
-###Maillage sémantique
+###M aillage sémantique
 
 
 ![](images/cocon-sem-17.png)
@@ -326,11 +326,11 @@ Nous allons dérouler chacune des 3 procédures suivantes :
 
 **Les metamots non utilisables pour du maillage ou cocons ne sont pas listés.**
 
-####Calculer un maillage interne
+#### Calculer un maillage interne
 
 Il y a trois façons de faire : soit tout faire manuellement (!), soit utiliser les outils automatiques.
 
-#####All In
+##### All In
 
 Choisissez un des metamots sources en zone 4.
 
@@ -352,7 +352,7 @@ Vous pouvez répéter cette opération sur plusieurs metamots de la zone 4 :
 
 *Résultat après spatialisation*
 
-#####Liens forts
+##### Liens forts
 
 Cette opération ne nécessite pas de sélection dans la zone 4, car elle agit sur l’ensemble des metamots. Donc, en 1 clic, vous réalisez tous les liens forts possibles s'il y en a.
 
@@ -364,7 +364,7 @@ Cliquez sur « Liens forts », les pages en très forte affinité se retrouven
 
 *Résultat après spatialisation*
 
-#####Liens moyens
+##### Liens moyens
 
 En cliquant sur « Liens moyens », tous les liens de force moyenne entre les pages compatibles sont calculés. Cette étape peut être faite à tous moments, même après avoir ajouté tous les liens forts.
 
@@ -376,7 +376,7 @@ Cliquez sur « Liens moyens ».
 
 *Résultat après spatialisation*
 
-#####Maillage manuel
+##### Maillage manuel
 
 Cliquez sur un des metamots de la zone 4.
 
@@ -395,7 +395,7 @@ Un metamot étant sélectionné en zone 4 et un autre en zone 5, la zone 6 se
 
 ![](images/cocon-sem-30.png)
 
-#####Options de maillage 
+##### Options de maillage 
 
 ![](images/cocon-sem-31.png)
 
@@ -404,7 +404,7 @@ Cette option ne modifie pas les liens déjà créés.
 
 « Max Out » et « Max In » : vous pouvez limiter ici le nombre de liens entrants et sortants des metamots. Particulièrement utiles en maillage automatique.
 
-#####Export des données de maillage 
+##### Export des données de maillage 
 
 ![](images/cocon-sem-32.png)
 
@@ -412,7 +412,7 @@ Cette option ne modifie pas les liens déjà créés.
 
 ![](images/cocon-sem-33.png)
 
-####Calculer un cocon sémantique
+#### Calculer un cocon sémantique
 
 Créer un cocon sémantique est très simple. Choisissez le metamot cible dans la liste de la zone 4 puis cliquez sur « cocon automatique ».
 
@@ -439,7 +439,7 @@ Les boutons .xmind et /.mm exportent les mindmap.
 
 **Ces 3 boutons ne fonctionnent que pour les cocons, pas pour le maillage classique.**
 
-#####Calculer plusieurs cocons en une seule fois
+##### Calculer plusieurs cocons en une seule fois
 
 En premier lieu, cliquez sur « Multi-tête ».
 
@@ -476,7 +476,7 @@ Quatre algorithmes différents sont proposés. Chacun d’entre eux produira des
 * Themis est le généreux de la bande, il est open et tant que c'est liable, ça lui va.
 * Zeus va lui être l'exigent : le glissement Parents/enfants est tout aussi important que les glissements entre pages soeurs.
 
-####Visualisation
+#### Visualisation
 
 Après le calcul de cocon sémantique, ou après le calcul d’un maillage, les metamots sont disposés ainsi dans la zone 7.
 
@@ -502,7 +502,7 @@ Pour obtenir les vues des exemples précédents, cliquez sur l’engrenage [spat
 
 **
 
-##Ajouter des metamots à un lot déjà calculé
+## Ajouter des metamots à un lot déjà calculé
 
 Il est possible de fusionner, sous certaines conditions, de fusionner deux lots de metamots.
 
@@ -515,7 +515,7 @@ Les conditions pour que cela soit réalisable sont les suivantes :
 Pour réaliser une fusion, rendez-vous sur la page de résumé d'un des deux lots. Tout en bas, vous trouverez un bouton orange "Intégrer pack à…".
 Laissez-vous guider, un assistant vous guidera pas à pas.
 
-##Donner un accès restreint à l'espace "optimisations" à vos rédacteurs
+## Donner un accès restreint à l'espace "optimisations" à vos rédacteurs
 
 Donner accès à un ou plusieurs rédacteurs aux optimisation d'un lot de metamots, choisissez dans la liste de vos lots de metamots le lot pour lequel vous voulez donner un accès.
 
@@ -523,7 +523,7 @@ Dans le menu vertical à gauche, cliquer sur le bouton colorié en orange "Accè
 
 Votre rédacteur aura alors accès à la partie "optimisation" de ce lot et de ce lot uniquement.
 
-##Calculer des idées d'intertitres ou de paragraphes
+## Calculer des idées d'intertitres ou de paragraphes
 
 Vous pouvez obtenir des idées de paragraphes pour chacun de vos metamots.
 
@@ -531,13 +531,13 @@ Rendez-vous dans la page "optimisation" accessible par le menu vertical de gauch
 
 Si des idées ont été trouvées dans un ou plusieurs metamots du lot, vous les retrouverez avec les cooccurrences et lexies dans  la page "optimisation" du metamot pour laquelle cette recherche a abouti.
 
-##Aspirer votre page actuelle dans optimisation
+## Aspirer votre page actuelle dans optimisation
 
 Tout en bas de chaque page, une zone vous permet d'aspirer la page dont vous aurez indiqué l'url.
 
 Le système essayera d'extraire la partie contenu de la page (donc, sans les menus, footer, etc.) Malheureusement, ce n'est pas toujours possible, tous les pages web ne se valent pas. Dans ce cas vous aurez éventuellement à nettoyer les éléments inutiles pour l'optimisation.
 
-##Zone pour ajouter des urls a posteriori
+## Zone pour ajouter des urls a posteriori
 
 Pour renseigner en une seule fois toutes les urls de tous les metamots d'un même lot, rendez-vous dans la page d'entrée de l' "Optimisation". Sous la liste des metamots, vous trouverez un champ permettant d'entrer les couples {metamots, url} avec la syntaxe suivante :
 * un couple par ligne
