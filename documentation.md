@@ -31,6 +31,8 @@ Version du 3 mai 2018
 * [Aspirer votre page actuelle dans optimisation](#aspirer-votre-page-actuelle-dans-optimisation)
 * [Ajouter des urls a posteriori](#ajouter-des-urls-a-posteriori)
 
+* [Test d'apostrophe](#test-dapostrophe)
+
 ## Les metamots, préalables
 
 1) Cette documentation a pour objectif d’expliquer le fonctionnement du service « metamots en SaaS » sur cocon.se.
