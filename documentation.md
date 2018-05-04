@@ -26,7 +26,7 @@ Version du 3 mai 2018
 * [Calculer plusieurs cocons en une seule fois](#calculer-plusieurs-cocons-en-une-seule-fois)
 * [Visualisation](#visualisation)
 * [Ajouter des metamots à un lot déjà calculé](#ajouter-des-metamots-à-un-lot-déjà-calculé)
-* [Donner un accès restreint à l'espace optimisations à vos rédacteurs](#donner-un-accès-restreint-à-l'espace-optimisations-à-vos-rédacteurs)
+* [Donner un accès restreint aux optimisations à vos rédacteurs](#donner-un-accès-restreint-aux-optimisations-à-vos-rédacteurs)
 * [Idées de paragraphes](#idées-de-paragraphes)
 * [Aspirer votre page actuelle dans optimisation](#aspirer-votre-page-actuelle-dans-optimisation)
 * [Ajouter des urls a posteriori](#ajouter-des-urls-a-posteriori)
@@ -514,7 +514,7 @@ Les conditions pour que cela soit réalisable sont les suivantes :
 Pour réaliser une fusion, rendez-vous sur la page de résumé d'un des deux lots. Tout en bas, vous trouverez un bouton orange "Intégrer pack à…".
 Laissez-vous guider, un assistant vous guidera pas à pas.
 
-## Donner un accès restreint à l'espace optimisations à vos rédacteurs
+## Donner un accès restreint aux optimisations à vos rédacteurs
 
 Donner accès à un ou plusieurs rédacteurs aux optimisation d'un lot de metamots, choisissez dans la liste de vos lots de metamots le lot pour lequel vous voulez donner un accès.
 
