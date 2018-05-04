@@ -12,7 +12,7 @@ Version du 3 mai 2018
 * [Potentiel](#potentiel)
 * [Simulations](#simulations)
 * [Optimisations](#optimisations)
-* [Vue d'ensemble](#vue-d'ensemble)
+* [Vue générale](#vue-générale)
 * [Détails des metamots](#détails-des-metamots)
 * [Maillage sémantique](#Maillage sémantique)
 * [Calculer un maillage interne](#Calculer un maillage interne)
@@ -248,11 +248,11 @@ Vous disposez aussi des "À éviter". Il faut comprendre cette alerte avec un pe
 
 Note : Une bonne rédaction sur le web nécessite des phrases de moins de 15 mots. Pensez-y ! C’est aussi une façon de juger un bon rédacteur ;-)
 
-### Vue d'ensemble
+### Vue générale
 
 ![](images/cocon-sem-51.png)
 
-À partir de la vue « Résumé », vous pouvez accéder à la « Vue d’ensemble » en cliquant sur détail (!).
+À partir de la vue « Résumé », vous pouvez accéder à la « Vue générale » en cliquant sur détail (!).
 
 Outre une visu globale et une liste interactives, vous pouvez visualiser le voyage des lexies dans l’ensemble des metamots.
 
