@@ -248,7 +248,7 @@ Vous disposez aussi des "À éviter". Il faut comprendre cette alerte avec un pe
 
 Note : Une bonne rédaction sur le web nécessite des phrases de moins de 15 mots. Pensez-y ! C’est aussi une façon de juger un bon rédacteur ;-)
 
-###Vue d'ensemble
+### Vue d'ensemble
 
 ![](images/cocon-sem-51.png)
 
