@@ -26,7 +26,7 @@ Version du 3 mai 2018
 * [Calculer plusieurs cocons en une seule fois](#calculer-plusieurs-cocons-en-une-seule-fois)
 * [Visualisation](#visualisation)
 * [Ajouter des metamots à un lot déjà calculé](#ajouter-des-metamots-à-un-lot-déjà-calculé)
-* [Donner un accès restreint à l'espace optimisations à vos rédacteurs](#donner-un-accès-restreint-à-l-espace-optimisations-à-vos-rédacteurs)
+* [Donner un accès restreint à l'espace optimisations à vos rédacteurs](#donner-un-accès-restreint-à-l\'espace-optimisations-à-vos-rédacteurs)
 * [Calculer des idées d'intertitres ou de paragraphes](#calculer-des-idées-d-intertitres-ou-de-paragraphes)
 * [Aspirer votre page actuelle dans optimisation](#aspirer-votre-page-actuelle-dans-optimisation)
 
