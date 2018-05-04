@@ -29,7 +29,7 @@ Version du 3 mai 2018
 * [Donner un accès restreint à l'espace optimisations à vos rédacteurs](#donner-un-accès-restreint-à-l'espace-optimisations-à-vos-rédacteurs)
 * [Calculer des idées d'intertitres ou de paragraphes](#calculer-des-idées-d-intertitres-ou-de-paragraphes)
 * [Aspirer votre page actuelle dans optimisation](#aspirer-votre-page-actuelle-dans-optimisation)
-
+* [Ajouter des urls a posteriori](#ajouter-des-urls-a-posteriori)
 
 ## Les metamots, préalables
 
@@ -536,7 +536,7 @@ Tout en bas de chaque page, une zone vous permet d'aspirer la page dont vous aur
 
 Le système essayera d'extraire la partie contenu de la page (donc, sans les menus, footer, etc.) Malheureusement, ce n'est pas toujours possible, tous les pages web ne se valent pas. Dans ce cas vous aurez éventuellement à nettoyer les éléments inutiles pour l'optimisation.
 
-## Zone pour ajouter des urls a posteriori
+## Ajouter des urls a posteriori
 
 Pour renseigner en une seule fois toutes les urls de tous les metamots d'un même lot, rendez-vous dans la page d'entrée de l' "Optimisation". Sous la liste des metamots, vous trouverez un champ permettant d'entrer les couples {metamots, url} avec la syntaxe suivante :
 * un couple par ligne
