@@ -16,7 +16,7 @@ Version V 1.1 du 18 octobre 2019
 * [Zone pour ajouter des urls a posteriori](#Zone-pour-ajouter-des-urls-a-posteriori)
 * [Aspirer votre page actuelle dans optimisation](#Aspirer-votre-page-actuelle-dans-optimisation)
 * [Donner un accès restreint à l'espace "optimisations" à vos rédacteurs](#Donner-un-accès-restreint-à-l'espace-"optimisations"-à-vos-rédacteurs)
-* [Vue d'ensemble](#Vue-d-ensemble)
+* [Vue d'ensemble](#Vue-densemble)
 * [Détails des metamots](#Détails-des-metamots)
 * [Maillage sémantique](#Maillage-sémantique)
 * [Onglet cocon automatique](#Onglet-cocon-automatique)
